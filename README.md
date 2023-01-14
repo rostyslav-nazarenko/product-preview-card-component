@@ -70,4 +70,4 @@ I finished the challenge quickly, only issues were with using Grid for desktop v
 
 ## Acknowledgments
 
-- [](https://www.frontendmentor.io/solutions/product-preview-card-component-Zgq7ILw0Y0) - Anastacia's solution helped me solve problems with Grid for desktop view
+- [@Antasiia](https://www.frontendmentor.io/solutions/product-preview-card-component-Zgq7ILw0Y0) - Anastacia's solution helped me solve problems with Grid for desktop view
