@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/rostyslav-nazarenko/product-preview-card-component-main)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://rostyslav-nazarenko.github.io/product-preview-card-component-main/)
 
 ## My process
 
