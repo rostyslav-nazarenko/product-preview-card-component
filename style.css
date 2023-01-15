@@ -9,7 +9,6 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
 }
 
 * {
@@ -25,24 +24,24 @@ html {
 
 body {
   font-family: "Montserrat", sans-serif;
-  font-size: 1.4rem;
+  font-size: 0.875rem;
   line-height: 1.5;
   color: var(--color-dark-grayish-blue);
   background-color: var(--color-cream);
-}
 
-main {
+    
+  min-height: 100vh;
   display: flex;
-  height: 100vh;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
 .card-wrapper {
-  max-width: 35rem;
+  max-width: 22rem;
   background-color: var(--color-white);
-  border-radius: 1rem;
-  margin: 2rem;
+  border-radius: 0.625rem;
+  margin: 1.25rem;
   overflow: hidden;
   box-shadow: 0px 3px 10px 0px rgba(186,186,186,1);
 }
@@ -55,36 +54,36 @@ main {
 }
 
 .card-text-section {
-  margin: 3rem;
+  margin: 1.875rem;
 }
 
 .card-label {
   text-transform: uppercase;
-  letter-spacing: 0.5rem;
-  font-size: 1.3rem;
+  letter-spacing: 0.25rem;
+  font-size: 0.75rem;
 }
 
 .card-heading {
-  font-size: 3rem;
+  font-size: 1.875rem;
   font-family: "Fraunces", serif;
   font-weight: 700;
   line-height: 1.08;
   color: var(--color-dark-blue);
-  margin: 1rem 0 1.5rem;
+  margin: 0.625em 0 1rem;
 }
 
 .card-prices {
-  margin: 1.5rem 0 1rem;
+  margin: 1rem 0 0.625rem;
   display: flex;
   align-items: center;
-  gap: 1.7rem;
+  gap: 1rem;
 }
 
 .card-new-price {
   font-family: "Fraunces", serif;
   color: var(--color-dark-cyan);
   font-weight: 700;
-  font-size: 3.5rem;
+  font-size: 2.25rem;
 }
 
 .card-old-price {
@@ -97,13 +96,13 @@ main {
   color: var(--color-white);
   background-color: var(--color-dark-cyan);
   border: none;
-  padding: 1.7rem;
-  border-radius: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.25rem;
   cursor: pointer;
 
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.625rem;
   justify-content: center;
 }
 
@@ -111,15 +110,21 @@ main {
   background-color: #1a4031;
 }
 
-@media screen and (min-width: 640px) {
+footer p {
+  font-size: 0.875rem;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+@media screen and (min-width: 40rem) {
   .card-wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    max-width: 60rem;
+    max-width: 37.5rem;
   }
 
   .card-heading,
   .card-prices {
-    margin: 2rem 0 2rem;
+    margin: 1.25rem 0;
   }
 }
