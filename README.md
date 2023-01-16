@@ -62,7 +62,7 @@ I finished the challenge quickly, only issues were with using Grid for desktop v
 
 ### Continued development
 
-- The next challenge I'm going to learn and then use SASS or SCSS. That way I will increase my knowledge of other languages
+- The next challenge I'm going to learn and then use SASS or SCSS. That way I will increase my knowledge of other languages.
 
 ## Author
 
@@ -70,4 +70,5 @@ I finished the challenge quickly, only issues were with using Grid for desktop v
 
 ## Acknowledgments
 
-- [@Antasiia](https://www.frontendmentor.io/solutions/product-preview-card-component-Zgq7ILw0Y0) - Anastacia's solution helped me solve problems with Grid for desktop view
+- [@Antasiia](https://www.frontendmentor.io/solutions/product-preview-card-component-Zgq7ILw0Y0) - Anastacia's solution helped me solve problems with Grid for desktop view.
+- [@grace-snow](https://www.frontendmentor.io/solutions/product-preview-card-component-VyHCkxQXZn#comment-63c4a087d12faacf2944ee9a) - Grace provided feedback for making my solution more accessible.
