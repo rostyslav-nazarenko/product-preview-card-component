@@ -121,7 +121,7 @@ footer p {
   margin-top: 1rem;
 }
 
-@media screen and (min-width: 40rem) {
+@media screen and (min-width: 40em) {
   .card-wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
